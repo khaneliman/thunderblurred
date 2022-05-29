@@ -3,6 +3,11 @@
 
 /* Add transparency to the majority of the window */
 
+#navigation-toolbox,
+#LW-background-box {
+	background: transparent !important;
+}
+
 #messengerWindow,
 #messengerBox, #mail-toolbox {
 	background: transparent !important;
@@ -45,5 +50,3 @@ splitter {
 	background: transparent !important;
 	border: none !important;
 }
-
-

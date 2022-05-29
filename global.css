@@ -2,6 +2,7 @@
 
 
 /* The Main Window */
+
 #messengerWindow,
 #messengerBox, #mail-toolbox {
 	background: var(--tb-base-bg) !important;
